@@ -1,11 +1,13 @@
-! Version: 20250820232323
 ! Title: BKoG List
+! Expires: 1 days
+! Description: My list
+! Homepage: https://bankhonggioi.com/
+! Version: 20250820232323
 ! Last modified: 20 Aug 2025 23:23:23 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! BKoG List filter
 ! Copyright: Ban Khong Gioi
-! Homepage: https://bankhonggioi.com/
 ! License: GPLv3
 ! Please report any unblocked ads or problems by email or in our fanpage
 ! Mọi thắc mắc xin gửi về email hoặc fanpage
