@@ -1,0 +1,21 @@
+! Version: 20250820232323
+! Title: BKoG List
+! Last modified: 20 Aug 2025 23:23:23 UTC+7
+! Expires: 1 days (update frequency)
+!
+! BKoG List filter
+! Copyright: bankhonggioi
+! Homepage: https://bankhonggioi.com.com/
+! License: GPLv3 (https://github.com/abpvn/abpvn/blob/master/LICENSE)
+! Please report any unblocked ads or problems by email or in our fanpage
+! Mọi thắc mắc xin gửi về email hoặc fanpage
+! Email: bankhonggioi@gmail.com
+! Facebook Fanpage: https://www.facebook.com/bankhonggioidotcom/
+! Report new issue on github: https://github.com/bankhonggioi/ads-block/issues/new
+!---------- BKOG Block Ads 1 ---------------
+tmail.io###iframe_id
+www.fshare.vn##.quang-cao-ben-trai
+www.fshare.vn##.quang-cao-ben-phai
+mediamart.vn##.popup-footer
+truyenfull.vision##.incontent-ad.ads-responsive.visible-lg.visible-md
+truyenfull.vision##.ads-chapter-bottom-lien-quan.row.ads-responsive
