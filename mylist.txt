@@ -4,9 +4,9 @@
 ! Expires: 1 days (update frequency)
 !
 ! BKoG List filter
-! Copyright: bankhonggioi
-! Homepage: https://bankhonggioi.com.com/
-! License: GPLv3 (https://github.com/abpvn/abpvn/blob/master/LICENSE)
+! Copyright: Ban Khong Gioi
+! Homepage: https://bankhonggioi.com/
+! License: GPLv3
 ! Please report any unblocked ads or problems by email or in our fanpage
 ! Mọi thắc mắc xin gửi về email hoặc fanpage
 ! Email: bankhonggioi@gmail.com
