@@ -21,3 +21,4 @@ www.fshare.vn##.quang-cao-ben-phai
 mediamart.vn##.popup-footer
 truyenfull.vision##.incontent-ad.ads-responsive.visible-lg.visible-md
 truyenfull.vision##.ads-chapter-bottom-lien-quan.row.ads-responsive
+###ads-flyicon
