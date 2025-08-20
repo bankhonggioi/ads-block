@@ -1,5 +1,5 @@
 ! Title: BKoG List
-! Expires: 1 days
+! Expires: 1 hour
 ! Description: My list
 ! Homepage: https://bankhonggioi.com/
 ! Version: 20250820232323
